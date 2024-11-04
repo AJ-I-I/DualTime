@@ -1,6 +1,6 @@
-import tkinter as tk
-from datetime import datetime
-import pytz
+import tkinter as tk                # IMPORTS
+from datetime import datetime       # tkinter, datetime, pytz, requests
+import pytz                         # use format pip install (import name here) to ensure program runs
 import requests
 
 # Constants
